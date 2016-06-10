@@ -1,0 +1,11 @@
+{
+  "name": "user-auth-jwt",
+  "version": "1.0.0",
+  "description": "Boilerplate code for using JWTs for user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Frazier",
+  "license": "ISC"
+}
